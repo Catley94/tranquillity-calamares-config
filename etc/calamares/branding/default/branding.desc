@@ -121,15 +121,15 @@ navigation: widget
 # are visible as buttons there if the corresponding *show* keys
 # are set to "true" (they can also be overridden).
 strings:
-    productName:         Carli
+    productName:         Tranquillity
     shortProductName:    Generic
-    version:             2020.12.1
-    shortVersion:        2020.1
-    versionedName:       Carli
+    version:             2021.01.23
+    shortVersion:        2021.1
+    versionedName:       Tranquillity
     #shortVersionedName:  Generic 2017.8
     bootloaderEntryName: Generic
     productUrl:          https://calamares.io/
-    supportUrl:          https://github.com/calamares/calamares/issues
+    supportUrl:          https://github.com/Catley94/tranquillity/issues
     knownIssuesUrl:      https://calamares.io/about/
     releaseNotesUrl:     https://calamares.io/about/
     donateUrl:           https://kde.org/community/donations/index.php
@@ -217,5 +217,3 @@ slideshow:               "show.qml"
 #
 # An image slideshow does not need to have the API defined.
 slideshowAPI: 2
-
-
