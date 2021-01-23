@@ -1,1 +1,1 @@
-# Carli Calamares config
+# Tranquillity Calamares config
