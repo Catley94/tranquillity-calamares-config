@@ -1,0 +1,19 @@
+- name: "Developer"
+  description: "Programs for the Developer of this ISO"
+  hidden: false
+  selected: false
+  critical: false
+  expanded: true
+  packages:
+    - variety
+    - code
+    - krita
+    - nodejs
+    - npm
+    - yay
+    - pamac-all
+    - gvfs
+    - cron
+    - virt-manager
+    - qemu
+    - libvirt
