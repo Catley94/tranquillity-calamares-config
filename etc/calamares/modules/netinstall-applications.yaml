@@ -24,3 +24,42 @@
   packages:
     - libreoffice-still
 
+- name: "Other"
+  description: "Custom Software"
+  hidden: false
+  selected: false
+  critical: false
+  expanded: true
+  packages:
+    - catfish
+    - leafpad
+    - plank
+    - spectacle
+    - htop
+    - nodejs
+    - npm
+    - gparted
+    - baobab
+    - simplescreenrecorder
+    - libvirt
+    - virt-manager
+    - qemu
+    - trello
+    - postman-bin
+    - github-desktop-bin
+    - lastpass
+    - spotify
+
+- name: "Dependancies"
+  description: "Packages used by other packages"
+  hidden: false
+  selected: false
+  critical: false
+  expanded: true
+  packages:
+    - gvfs
+    - cron
+    
+
+
+
