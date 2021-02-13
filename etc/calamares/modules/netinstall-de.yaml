@@ -1,0 +1,52 @@
+- name: "Cinnamon"
+  description: "Cinnamon Desktop Environment"
+  hidden: false
+  selected: false
+  critical: false
+  expanded: true
+  packages:
+    - cinnamon
+    - nemo-fileroller
+    - gnome-terminal
+    - cinnamon-translations
+- name: "KDE Plasma"
+  description: "Plasma Desktop Environment"
+  hidden: false
+  selected: false
+  critical: false
+  expanded: true
+  packages:
+    - plasma-meta
+    - packagekit-qt5
+    - kde-applications-meta
+    - partitionmanager
+    - ktorrent
+    - kdeconnect
+- name: "XFCE"
+  description: "XFCE Desktop Environment"
+  hidden: false
+  selected: false
+  critical: false
+  expanded: true
+  packages:
+    - xfce4
+    - xfce4-goodies
+- name: "Gnome"
+  description: "Gnome Desktop Environment"
+  hidden: false
+  selected: false
+  critical: false
+  expanded: true
+  packages:
+    - gnome
+    - gnome-extra
+    - nautilus-image-converter
+- name: "Deepin"
+  description: "Deepin Desktop Environment"
+  hidden: false
+  selected: false
+  critical: false
+  expanded: true
+  packages:
+    - deepin
+    - deepin-extra

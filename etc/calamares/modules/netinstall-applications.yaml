@@ -14,3 +14,13 @@
     - opera
     - qutebrowser
     - torbrowser-launcher
+
+- name: "Office"
+  description: "Office Suites"
+  hidden: false
+  selected: false
+  critical: false
+  expanded: true
+  packages:
+    - libreoffice-still
+
